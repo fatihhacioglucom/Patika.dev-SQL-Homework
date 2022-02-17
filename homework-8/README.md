@@ -72,5 +72,6 @@ UPDATE employee
 ```
 `Soru` Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
 ```sql
-
+DELETE FROM employee
+WHERE id=6;
 ```

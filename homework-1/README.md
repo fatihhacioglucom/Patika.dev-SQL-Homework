@@ -1,4 +1,4 @@
-# SQL-Sorgu
+# Patika.dev SQL Homework 1
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 

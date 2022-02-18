@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 8
+# Patika.dev SQL Homework 8 - Table Add, Update, Delete
 
 `Soru` Test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.
 ```sql

@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 5
+# Patika.dev SQL Homework 5 - Order By
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 

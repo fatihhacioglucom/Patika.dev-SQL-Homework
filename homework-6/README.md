@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 6
+# Patika.dev SQL Homework 6 - Aggregate Functions
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 

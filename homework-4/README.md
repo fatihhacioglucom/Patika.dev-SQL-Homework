@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 4
+# Patika.dev SQL Homework 4 - Distinct, Count
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 

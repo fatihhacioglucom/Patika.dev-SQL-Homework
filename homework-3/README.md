@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 3
+# Patika.dev SQL Homework 3 - Like, Ilike
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 

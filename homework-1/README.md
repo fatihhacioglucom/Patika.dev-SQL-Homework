@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 1
+# Patika.dev SQL Homework 1 - Select, Where, And, Or
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 

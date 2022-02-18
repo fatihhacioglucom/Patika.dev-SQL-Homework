@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 5 - Order By
+# Patika.dev SQL Homework 5 - Order By, Limit, Offset
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 

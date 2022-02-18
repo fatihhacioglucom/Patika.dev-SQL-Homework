@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 2
+# Patika.dev SQL Homework 2 - Between, In
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 

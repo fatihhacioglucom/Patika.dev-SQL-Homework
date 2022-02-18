@@ -1,4 +1,4 @@
-# Patika.dev SQL Homework 7
+# Patika.dev SQL Homework 7 - Group By, Having
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 
